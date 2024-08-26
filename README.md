@@ -1,5 +1,7 @@
 # Olá, mundo!
----
+<h1 align="center">Seja bem-vindo ao meu perfil!</h1>
+<h5>Algumas das minhas redes sociais</h5>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_espica/)
 ---
 - I'm currently learning Java, html, css and assembly. 
