@@ -2,6 +2,7 @@
 <h1 align="center">Seja bem-vindo ao meu perfil!</h1>
 <h5>Algumas das minhas redes sociais</h5>
 
+<a href = "mailto:lucasespicarezende@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_espica/)
 ---
 - I'm currently learning Java, html, css and assembly. 
