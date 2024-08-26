@@ -10,7 +10,7 @@
 
 <details>
   <summary>More about me</summary>
-  -I'm 18 years old, currently living in Brazil, I'm studying switching engineering at PUC Campinas, I'm almost fluent in English, I have experience in C, learning HTML, CSS, Assembly, Java and many things ahead.
+  -I'm 18 years old, currently living in Brazil, I'm studying Computer Engineering at PUC Campinas, I'm almost fluent in English, I have experience in C, learning HTML, CSS, Assembly, Java and many things ahead.
   
   -I like playing video games, watching a series every now and then, and I love solving problems related to hardware and software.
 </details>
