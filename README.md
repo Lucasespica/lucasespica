@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasespica&show_icons=true&theme=transparent)
-
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasespica&show_icons=true&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasespica&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</div>
 
