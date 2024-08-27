@@ -28,6 +28,5 @@
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasespica&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasespica&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasespica&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </div>
-
