@@ -1,37 +1,45 @@
 # Olá, mundo!
-<h1 align="center">Seja bem-vindo ao meu perfil!</h1>
-<h5>Some of my social media</h5>
 
-<a href = "mailto:lucasespicarezende@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_espica/)
----
-- Always lerning new things! 
-- How to reach me: lucasespicarezende@gmail.com on Gmail.
-
-<details>
-  <summary>More about me</summary>
-  -I'm 19 years old, currently living in Brazil, I'm studying Computer Engineering at PUC Campinas, I have experience in C, HTML, CSS, Assembly, Java and many things ahead.
-  
-  -I like playing video games, love going fishing, and I love solving problems related to hardware and software.
-</details>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-<br>
+<h1 align="center">Welcome to my profile!</h1>
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasespica&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasespica&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h2 align="left"><strong>About Me</strong></h2>
+        <ul align="left">
+          <li>Born in Campinas - SP</li>
+          <li>Computer Engineering Student</li>
+          <li>Languages: Java, C, JavaScript, HTML, CSS</li>
+          <li>Tech Enthusiast</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h2 align="left"><strong>Projects I'd Like to Share</strong></h2>
+        <ul align="left">
+          <li>
+            <a href="https://github.com/guilhermeeid/Ice-Fishing-OOP" target="_blank">Ice Fishing (OOP)</a>
+          </li>
+          <li>
+            <a href="https://github.com/Lucasespica/Simple-Battleship-game" target="_blank">Simple Battleship Game</a>
+          </li>
+        </ul>
+        <p align="left"><strong>More projects coming soon!</strong></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasespica/Lucasespica/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasespica/Lucasespica/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucasespica/Lucasespica/output/github-contribution-grid-snake.svg">
-</picture>
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucas_espica/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-espica-rezende/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasespicarezende@gmail.com)
+
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
