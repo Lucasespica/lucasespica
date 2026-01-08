@@ -44,9 +44,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasespica&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasespica&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+<div align="center" style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api?username=Lucasespica&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api/top-langs/?username=Lucasespica&layout=compact&langs_count=8&theme=dark" />
 </div>
 
 <picture align="center">
