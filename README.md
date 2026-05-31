@@ -1,6 +1,6 @@
-# Olá, mundo!
-
-<h1 align="center">Welcome to my profile!</h1>
+<div font-size="30px" align="center">
+  <h1 style="font-size: 2rem;">Welcome to my profile!</h1>
+</div>  
 <div align="center">
   <table width="100%">
     <tr>
@@ -10,7 +10,7 @@
           <li>Born in Campinas - SP</li>
           <li>Computer Engineering Student</li>
           <li>Languages: Java, C, JavaScript, HTML, CSS</li>
-          <li>Tech Enthusiast</li>
+          <li>Fishing!</li>
         </ul>
       </td>
       <td width="50%" valign="top">
@@ -29,20 +29,19 @@
   </table>
 </div>
 
-## 🌐 Socials:
+## Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucas_espica/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-espica-rezende/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasespicarezende@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <div align="center" style="display: inline_block">
   <img height="180em" src="https://github-readme-stats-rho-lyart-46.vercel.app/api?username=Lucasespica&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
